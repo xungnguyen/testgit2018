@@ -1,0 +1,15 @@
+1 ngay - 4tieng. 
+
+30phut - nghi
+1h - tieng anh
+2h30min - hoc bai cua anh
+
+1. english. 
+2. php framework: laravel
+3. java for android
+4. xcode for ios
+5. API (REST* / SOAP)
+6. devOps
+
+full stack
+git
